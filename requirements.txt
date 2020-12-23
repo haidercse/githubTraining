@@ -3,3 +3,7 @@ feature
 emozi
 color 
 vivrant
+textv color needed
+dark mode
+video call option
+
